@@ -1,0 +1,4 @@
+@echo off
+cd "C:\ruta\a\la\carpeta\de\los\archivos"
+python blocked_domain_GUI.py
+pause
